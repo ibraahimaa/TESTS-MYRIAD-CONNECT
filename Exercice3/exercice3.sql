@@ -1,7 +1,6 @@
 -- Ou introduis-tu l’écriture en base de données dans le code de la partie 1 ?
 -- cette question a été répondue dans l'exercice préccédent (voir Service.java ligne 35) ,endroit auquel on accedera a la source de donnée
 
-`code`
 CREATE DATABASE `USSD`;
 USE `USSD`;
 
